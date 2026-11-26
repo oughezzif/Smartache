@@ -1,0 +1,8 @@
+{
+  "name": "Cadence",
+  "description": "Real-time collaborative project management and interactive Gantt planning platform with Super Admin, Responsable, Directeur, and Visiteur role governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
